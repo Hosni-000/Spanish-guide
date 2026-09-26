@@ -1,0 +1,43 @@
+************* Crash Head ****************
+Time Of Crash      : 2025_10_11-02_21_22
+Device Manufacturer: samsung
+Device Model       : SM-A155F
+Android Version    : 15
+Android SDK        : 35
+App VersionName    : 1.5.78.11833
+App VersionCode    : 22102020
+************* Crash Head ****************
+
+java.lang.Error: FATAL EXCEPTION [main]
+Unity version     : 2020.2.2f1
+Device model      : samsung SM-A155F
+Device fingerprint: samsung/a15nsxx/a15:15/AP3A.240905.015.A2/A155FXXS7CYG4:user/release-keys
+Build Type        : Release
+Scripting Backend : IL2CPP
+ABI               : arm64-v8a
+Strip Engine Code : true
+
+Caused by: java.lang.Error: *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+Version '2020.2.2f1 (068178b99f32)', Build type 'Release', Scripting Backend 'il2cpp', CPU 'arm64-v8a'
+Build fingerprint: 'samsung/a15nsxx/a15:15/AP3A.240905.015.A2/A155FXXS7CYG4:user/release-keys'
+Revision: '5'
+ABI: 'arm64'
+Timestamp: 2025-10-11 02:21:22+0300
+pid: 6464, tid: 6497, name: ry.HollowKnight  >>> com.TeamCherry.HollowKnight <<<
+uid: 11455
+signal 11 (SIGSEGV), code 1 (SEGV_MAPERR), fault addr 0x20
+Cause: null pointer dereference
+    x0  0000000000000000  x1  0000007955886fa0  x2  0000000000000000  x3  4d4554412d494e46
+    x4  0000000000000000  x5  d88d38ba8234ee8e  x6  8eee3482ba388dd8  x7  00000000815f6415
+    x8  0000000000000137  x9  0000000000000000  x10 fffffffafa46c500  x11 00000000c104d324
+    x12 000000001e6602e7  x13 00000000dbeb287c  x14 00000000ea59bc58  x15 00000000af5399dc
+    x16 0000000054cd5081  x17 000000008ac1dcda  x18 00000078728d4000  x19 0000000000000000
+    x20 0000000007dddc5e  x21 00000000c2fce8ac  x22 00000000639be93d  x23 000000004fb817b9
+    x24 000000003af3ae72  x25 0000000051e7cc59  x26 0000000000000000  x27 00000079002003e0
+    x28 00000000c58d9311  x29 00000079001ffdc0
+    sp  00000079001ffdc0  lr  00000078788a02d4  pc  00000078789189ac
+
+backtrace:
+      #00 pc 00000000001729ac  [anon:.bss]
+
+	at [anon:.0x1729ac(Native Method)
