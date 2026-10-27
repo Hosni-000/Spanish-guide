@@ -1,0 +1,41 @@
+{
+  "targetAttributes": [
+    "gender"
+  ],
+  "targetTags": true,
+  "getFromInlineField": false,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "enableBases": true,
+  "selectors": [
+    {
+      "type": "attribute",
+      "name": "gender",
+      "value": "masculine",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "63e5-ba04",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "attribute",
+      "name": "gender",
+      "value": "feminine",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "730f-c95b",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

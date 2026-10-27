@@ -1,0 +1,18 @@
+# Ignore unrelated / wrong files
+Niggers.md
+final_draft.docx
+final_draft.xls
+pricing.ods
+Untitled 1.ods
+Untitled 1.xls
+skills-lock.json
+BlackmagicDesign/
+Codex/
+Eek/
+
+# Ignore OS / temp
+.DS_Store
+Thumbs.db
+
+# Ignore unrelated directories at root (optional)
+# Spanish vault and drills kept
