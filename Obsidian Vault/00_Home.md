@@ -56,3 +56,7 @@ aliases: [Vault Home, Start Here]
 > 3. Read 1 grammar file (5 min).
 > 4. Complete 1 applied card (`Applied_Grammar_Vocab.md`).
 > 5. End session with 1 drill file (3 min rapid conjugation).
+
+- [[02_Acceleration_and_Culture/05_Adaptive_Flashcard_Roadmap.md]] — Adaptive Milestone Roadmap with Gatekeeper Diagnostics
+
+- [[02_Acceleration_and_Culture/06_Day_by_Day_Mastery_Plan.md]] — Day-by-Day Mastery Plan (Days 1-90)

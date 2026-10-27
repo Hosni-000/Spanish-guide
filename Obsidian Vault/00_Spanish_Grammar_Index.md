@@ -117,3 +117,7 @@ date: 2026-10-27
 
 Deck tags: #flashcards/drills/stem-changing-radicals • #flashcards/drills/preterito-indefinido-irregulars • #flashcards/drills/subjunctive-triggers-and-forms
 
+
+- [[02_Acceleration_and_Culture/05_Adaptive_Flashcard_Roadmap.md]] — Adaptive Milestone Roadmap (Phase 1-4 gatekeepers)
+
+- [[02_Acceleration_and_Culture/06_Day_by_Day_Mastery_Plan.md]] — Day-by-Day Mastery Plan (Milestones & Gatekeepers for A1→B2)
